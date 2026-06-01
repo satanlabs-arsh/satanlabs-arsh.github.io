@@ -1,0 +1,1 @@
+import{R as a,j as e}from"./index-CaxILB_N.js";class t extends a.Component{render(){return e.jsxs("div",{children:[e.jsx("h2",{children:"Marketplace's Main Page"}),e.jsx("br",{})]})}}export{t as default};
